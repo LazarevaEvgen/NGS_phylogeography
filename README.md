@@ -12,5 +12,9 @@
 Инструкция, допустимые форматы заголовков и стандартные ошибки прописаны в описании к ячейкам кода. Файлы для пробного запуска кода доступны по запросу у авторов. По всем вопросам пишите e.kovaleva2@g.nsu.ru
 
 Пример карты (скриншот):
-<img width="1069" height="403" alt="image" src="https://github.com/user-attachments/assets/256bf1f6-974c-41b2-8c2d-5b29587a410e" />
+<img width="9823" height="3703" alt="g891" src="https://github.com/user-attachments/assets/20021d90-e915-4f85-9c2f-ee3d1de1ca92" />
+Пример выполнения кода для устранения избыточности (скриншот):
+<img width="9945" height="3831" alt="g38-3" src="https://github.com/user-attachments/assets/4fa4d376-8d64-43a1-8d06-52224372682f" />
+
+
 
